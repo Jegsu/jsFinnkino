@@ -1,0 +1,54 @@
+
+.sivu {
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1 {
+
+    font-family: verdana;
+	text-align: center;
+    color: #000000;
+}
+
+.center {
+	display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+#tabledata { 
+    padding: 25px;
+    font-family: verdana;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+
+.fade {
+    width: 25%;
+    text-align: justify;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.pohja {
+    margin: auto;
+    width:320px;
+    
+}
+
+.pohja img {
+    
+    display: inline-block;
+    margin: auto;
+   
+}
+
+.text { 
+    height: 60px;
+    width: 320px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+}
